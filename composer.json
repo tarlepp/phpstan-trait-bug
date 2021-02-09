@@ -1,0 +1,19 @@
+{
+    "name": "tarlepp/phpstan-trait-bug",
+    "description": "https://symfony-devs.slack.com/archives/C8SFXTD2M/p1612885598251900",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "phpstan/phpstan": "0.12.74"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tarlepp",
+            "email": "tarmo.leppanen@pinja.com"
+        }
+    ]
+}
